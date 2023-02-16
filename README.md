@@ -1,0 +1,1 @@
+A sample project for [exposed issue](https://github.com/JetBrains/Exposed/issues/1419)
